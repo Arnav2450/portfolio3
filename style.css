@@ -1,0 +1,42 @@
+.header{
+
+    background-color: #ADD8E6;
+    display:flex; 
+    justify-content: space-between; 
+}
+
+h1 {
+   
+    color:#ffffff;
+    font-size: 35px;
+    font-family: cursive;
+    
+}
+
+body{
+
+    background-color: #75E6DA ;
+}
+
+p{
+
+    color:#0000FF;
+    font-family: sans-serif;
+}
+
+* {
+    border: solid;
+}
+
+.grid{
+
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.footer{
+
+    display:flex;
+    justify-content: flex-end;
+}
